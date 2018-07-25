@@ -1,4 +1,4 @@
-## An Ugly, untested and mostly unsatifying translator from λProlog code to LaTex inference rules
+## An ugly, untested and mostly unsatifying translator from λProlog code to LaTex inference rules
 
 Usage (works with python 3.6) :
 

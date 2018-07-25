@@ -1,7 +1,7 @@
 ## An Ugly, untested and mostly unsatifying translator from Lambda Prolog code to Latex inference rules
 
-Usage :
+Usage (works with python 3.6) :
 
 ```
-python[>=3] lp2tex.py mymodule.mod
+python lp2tex.py mymodule.mod
 ``` 

@@ -7,8 +7,6 @@ import re
 with open(sys.argv[1], 'r') as theFile:
     lpCode = theFile.read()
 
-print(lpCode)
-
 # Regex for inference rules
 infer_r = r"(.*?):-(.*?)\."
 infer_s = r"\\infer{\g<1>}{\g<2>}"
